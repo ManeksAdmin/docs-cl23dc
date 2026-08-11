@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-2m24gu.indocuan-pro.cfd/sitemap.xml
